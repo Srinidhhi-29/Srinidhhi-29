@@ -34,7 +34,7 @@ Django REST API for route-based fuel stop optimization.
 ## Connect With Me
 
 * GitHub: https://github.com/Srinidhhi-29
-* LinkedIn: Add your LinkedIn profile here
+
 
 
 <!--
